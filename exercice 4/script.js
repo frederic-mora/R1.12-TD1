@@ -1,3 +1,16 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions (nouvelles) abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/object
+
+    Objectifs : 
+
+        . Découvrir les opérateurs arithmétiques de base
+        . Savoir faire un calcul sur des valeurs dans des variables
+*/
+
+
 /*
     Cet exercice a la même finalité que le précédent : calculer l'équivalent en secondes d'une durée donnée en heures/minutes/secondes.
     Dans cette version, on utilise un objet pour "regrouper" les données (heures, minutes, secondes) puisqu'elles décrivent une seule et 
