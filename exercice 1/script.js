@@ -1,3 +1,19 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : https://fr.javascript.info/variables
+
+    Objectifs : 
+
+        . Comprendre ce qu'est une variable
+        . Savoir déclarer une variable
+        . Savoir affecter (donner une valeur à) une variable
+        . Savoir modifier la valeur d'une variable
+*/
+
+
+
+
 /*  Note : ceci est un commentaire. C'est-à-dire que c'est une anotation à l'usage du dévelopeur. 
     Le navigateur ignore tous les commentaires puisque ce ne sont pas des instructions qu'il doit exécuter.
     Un commentaire sur plusieurs lignes est délimité par les caractères /* et * /
@@ -26,5 +42,3 @@ let age = 100;
 
 // Ajoutez ici vos instructions
 
-
-nom = "Mora";
